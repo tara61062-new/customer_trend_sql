@@ -54,7 +54,7 @@ Query Results
 
 ## Dataset
 
-<a href="https://github.com/tara61062-new/customer_trend_sql/blob/main/customer_shopping_behavior.csv"> **Dataset Name:** `customer_shopping_behavior.csv` </a>
+**Dataset Name:** <a href="https://github.com/tara61062-new/customer_trend_sql/blob/main/customer_shopping_behavior.csv"> `customer_shopping_behavior.csv` </a>
 
 The dataset contains customer purchase information, including:
 
