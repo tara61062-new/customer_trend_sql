@@ -5,10 +5,10 @@
 
 ### Customer Behavior, Revenue & Product Insights with PostgreSQL
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge\&logo=postgresql\&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-Data%20Analysis-blue?style=for-the-badge)
-![GitHub](https://img.shields.io/badge/GitHub-Portfolio%20Project-black?style=for-the-badge\&logo=github)
-![Status](https://img.shields.io/badge/Status-Completed-success?style=for-the-badge)
+[PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge\&logo=postgresql\&logoColor=white)
+[SQL](https://img.shields.io/badge/SQL-Data%20Analysis-blue?style=for-the-badge)
+[GitHub](https://img.shields.io/badge/GitHub-Portfolio%20Project-black?style=for-the-badge\&logo=github)
+[Status](https://img.shields.io/badge/Status-Completed-success?style=for-the-badge)
 
 </div>
 
