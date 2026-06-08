@@ -1,5 +1,18 @@
-🛒 Customer Shopping Trend Analysis Using SQL
-Customer Behavior, Revenue & Product Insights with PostgreSQL
+
+<div align="center">
+
+# 🛒 Customer Shopping Trend Analysis Using SQL
+
+### Customer Behavior, Revenue & Product Insights with PostgreSQL
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge\&logo=postgresql\&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-Data%20Analysis-blue?style=for-the-badge)
+![GitHub](https://img.shields.io/badge/GitHub-Portfolio%20Project-black?style=for-the-badge\&logo=github)
+![Status](https://img.shields.io/badge/Status-Completed-success?style=for-the-badge)
+
+</div>
+
+---
 
 📊 Project Overview
 
@@ -198,6 +211,17 @@ Through this project, I strengthened my skills in:
 
 ## Author
 
-**[Basant Pandey]**
+**Basant Pandey**
 
-Data Analytics Project demonstrating PostgreSQL-based customer shopping trend analysis and business insight generation.
+
+
+## 📸 Project Screenshots
+
+### Query Results
+
+![Revenue Analysis](screenshots/revenue_analysis.png)
+
+![Customer Segmentation](screenshots/customer_segmentation.png)
+
+![Product Performance](screenshots/product_performance.png)
+
